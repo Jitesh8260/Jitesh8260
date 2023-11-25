@@ -1,22 +1,23 @@
-<h1 align="center">Hi 👋, I'm Jitesh Bhakat</h1>
-<h3 align="center">A passionate developer from India</h3>
+# 💫 About Me:
+2ND YEAR  |  👨‍🎓  <br> WEB DEVELOPER  |  🌐 <br> ML ENTHUSIAST  |  🖥 <br> SIT BHUBANESWAR  |  🎓
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fthebuzzingstudio-code-tbs-thebuzzing-zhYSVCirREeIZtONCI&psig=AOvVaw1tokGMfaERFBha_-eNp1U1&ust=1700936215394000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMicjKmf3YIDFQAAAAAdAAAAABAd" >
+<img align="right"  alt="" width="400" src="[![image](https://github.com/Jitesh8260/Jitesh8260/assets/137819786/3ea6a47a-934a-4e89-b7c3-d26d24fdf05a)
+]">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitesh8260&label=Profile%20views&color=0e75b6&style=flat" alt="jitesh8260" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ｊｉｔｅｓｈ 🦋" target="blank"><img src="https://img.shields.io/twitter/follow/ｊｉｔｅｓｈ 🦋?logo=twitter&style=for-the-badge" alt="ｊｉｔｅｓｈ 🦋" /></a> </p>
 
-- 📫 How to reach me **jiteshbhakat16@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ｊｉｔｅｓｈ 🦋" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ｊｉｔｅｓｈ 🦋" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jitesh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jitesh kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/_jitesh.25.16_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jitesh.25.16_" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jitesh.25.16_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jitesh8260&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jitesh8260&theme=radical&hide_border=false)<br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitesh8260&show_icons=true&locale=en&layout=compact" alt="jitesh8260" /></p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Jitesh8260&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
