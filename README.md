@@ -1,10 +1,8 @@
-# 💫 About Me:
-2ND YEAR  |  👨‍🎓  <br> WEB DEVELOPER  |  🌐 <br> ML ENTHUSIAST  |  🖥 <br> SIT BHUBANESWAR  |  🎓
-
-<img align="right"  alt="" width="400" src="[![image](https://github.com/Jitesh8260/Jitesh8260/assets/137819786/3ea6a47a-934a-4e89-b7c3-d26d24fdf05a)
-]">
-
-
+[![MasterHead](![image](https://github.com/Jitesh8260/Jitesh8260/assets/137819786/f9e332b6-3d6a-427a-8b09-98ba8e588c85))
+# 💫 About Me:  
+2ND YEAR  |  👨‍🎓 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<br> WEB DEVELOPER  |  🌐 <br> ML ENTHUSIAST  |  🖥 <br> SIT BHUBANESWAR  |  🎓
+                   
 
 
 ## 🌐 Socials:
