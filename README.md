@@ -1,5 +1,5 @@
-[![MasterHead](![image](https://github.com/Jitesh8260/Jitesh8260/assets/137819786/f9e332b6-3d6a-427a-8b09-98ba8e588c85))
-# 💫 About Me:  
+[![MasterHead](![image][(https://github.com/Jitesh8260/Jitesh8260/assets/137819786/f9e332b6-3d6a-427a-8b09-98ba8e588c85)](https://github.com/Jitesh8260/Jitesh8260/blob/main/giphy.gif))
+# 𝙹𝚒𝚝𝚎𝚜𝚑 𝙱𝚑𝚊𝚔𝚊𝚝  
 2ND YEAR  |  👨‍🎓 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <br> WEB DEVELOPER  |  🌐 <br> ML ENTHUSIAST  |  🖥 <br> SIT BHUBANESWAR  |  🎓
                    
