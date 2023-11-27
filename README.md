@@ -1,6 +1,7 @@
-[![MasterHead](![image]([https://github.com/Jitesh8260/Jitesh8260/assets/137819786/f9e332b6-3d6a-427a-8b09-98ba8e588c85](https://github.com/Jitesh8260/Jitesh8260/blob/main/WhatsApp%20Image%202023-11-27%20at%2023.13.57_c1dd3399.jpg)))
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+![WhatsApp Image 2023-11-27 at 23 13 57_c1dd3399](https://github.com/Jitesh8260/Jitesh8260/assets/137819786/8a751836-d173-422a-9db3-0c1c0ebe30bf)
 #  👤 𝙹𝚒𝚝𝚎𝚜𝚑 𝙱𝚑𝚊𝚔𝚊𝚝 :
+   <img align="right" alt="Coding" width="320" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
 𝙷𝚢𝚢 , 𝙸'𝚖 𝙹𝚒𝚝𝚎𝚜𝚑 𝟸𝚗𝚍 𝚢𝚎𝚊𝚛  |  👨‍🎓 𝚏𝚛𝚘𝚖 𝚂𝙸𝚃 𝙱𝚑𝚞𝚋𝚊𝚗𝚎𝚜𝚠𝚊𝚛  |  🎓
 𝚊𝚗𝚍 𝙸 𝚍𝚘 𝚆𝚎𝚋 𝙳𝚎𝚜𝚒𝚐𝚗 𝚊𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝  |  🌐 𝙸 𝚊𝚖 𝚊𝚗 𝙼𝙻 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝  |  🖥 𝙸 𝚛𝚎𝚊𝚕𝚕𝚢 𝚎𝚗𝚓𝚘𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 .
