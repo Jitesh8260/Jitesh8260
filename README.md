@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://github.com/Jitesh8260/Jitesh8260/assets/137819786/f9e332b6-3d6a-427a-8b09-98ba8e588c85))
+[![MasterHead](![image]([https://github.com/Jitesh8260/Jitesh8260/assets/137819786/f9e332b6-3d6a-427a-8b09-98ba8e588c85](https://github.com/Jitesh8260/Jitesh8260/blob/main/WhatsApp%20Image%202023-11-27%20at%2023.13.57_c1dd3399.jpg)))
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 #  👤 𝙹𝚒𝚝𝚎𝚜𝚑 𝙱𝚑𝚊𝚔𝚊𝚝 :
 
