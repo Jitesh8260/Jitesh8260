@@ -1,5 +1,4 @@
-![Banner](https://github.com/Jitesh8260/Jitesh8260/assets/137819786/8a751836-d173-422a-9db3-0c1c0ebe30bf)
-<h1 align="center">Hi, I'm Jitesh Bhakat 👋</h1>
+![Banner](https://github.com/Jitesh8260/Jitesh8260/blob/main/jitesh%20bhakat.png)
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Pro-blueviolet?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Currently_Building-MarketVerse-orange?style=for-the-badge&logo=producthunt" />
@@ -7,9 +6,9 @@
 
 ---
 
-##  About Me 
+## 👋 About Me 
+>  I'm a 3rd-year Computer Science Engineering undergraduate at SIT Bhubaneswar with a strong passion for building robust and scalable web applications. As a Full Stack Developer, I specialize in crafting responsive frontend interfaces using React and Tailwind CSS, while also building powerful backend systems with Node.js, Express, and MongoDB. My journey into tech is driven by curiosity and a constant desire to learn — whether it's diving deep into Data Structures & Algorithms, experimenting with DevOps tools, or exploring the basics of Machine Learning. I believe in writing clean, maintainable code and developing solutions that make a real-world impact. Currently, I'm building projects that enhance my understanding of real-life system architecture and contribute to my goal of becoming a well-rounded software engineer.</p>
 
-<p> I'm a 3rd-year Computer Science Engineering undergraduate at SIT Bhubaneswar with a strong passion for building robust and scalable web applications. As a Full Stack Developer, I specialize in crafting responsive frontend interfaces using React and Tailwind CSS, while also building powerful backend systems with Node.js, Express, and MongoDB. My journey into tech is driven by curiosity and a constant desire to learn — whether it's diving deep into Data Structures & Algorithms, experimenting with DevOps tools, or exploring the basics of Machine Learning. I believe in writing clean, maintainable code and developing solutions that make a real-world impact. Currently, I'm building projects that enhance my understanding of real-life system architecture and contribute to my goal of becoming a well-rounded software engineer.</p>
 
 ---
 
@@ -59,8 +58,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Jitesh8260&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jitesh8260&layout=compact&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Jitesh8260&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jitesh8260&layout=compact&theme=radical&hide_border=false)
 
 ---
 
