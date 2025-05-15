@@ -1,24 +1,70 @@
-![WhatsApp Image 2023-11-27 at 23 13 57_c1dd3399](https://github.com/Jitesh8260/Jitesh8260/assets/137819786/8a751836-d173-422a-9db3-0c1c0ebe30bf)
-#  👤 𝙹𝚒𝚝𝚎𝚜𝚑 𝙱𝚑𝚊𝚔𝚊𝚝 :
-   <img align="right" alt="Coding" width="320" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+![Banner](https://github.com/Jitesh8260/Jitesh8260/assets/137819786/8a751836-d173-422a-9db3-0c1c0ebe30bf)
+<h1 align="center">Hi, I'm Jitesh Bhakat 👋</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Pro-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Currently_Building-MarketVerse-orange?style=for-the-badge&logo=producthunt" />
+</p>
 
-
-𝙷𝚢𝚢 , 𝙸'𝚖 𝙹𝚒𝚝𝚎𝚜𝚑 𝟸𝚗𝚍 𝚢𝚎𝚊𝚛  |  👨‍🎓 𝚏𝚛𝚘𝚖 𝚂𝙸𝚃 𝙱𝚑𝚞𝚋𝚊𝚗𝚎𝚜𝚠𝚊𝚛  |  🎓
-𝚊𝚗𝚍 𝙸 𝚍𝚘 𝚆𝚎𝚋 𝙳𝚎𝚜𝚒𝚐𝚗 𝚊𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝  |  🌐 𝙸 𝚊𝚖 𝚊𝚗 𝙼𝙻 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝  |  🖥 𝙸 𝚛𝚎𝚊𝚕𝚕𝚢 𝚎𝚗𝚓𝚘𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 .
-                   
-
-
-## 🌐 𝚂𝚘𝚌𝚒𝚊𝚕𝚜 :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jitesh.25.16_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-
-# 💻 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔 :
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<BR>![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jitesh8260&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jitesh8260&theme=radical&hide_border=false)<br/>
-
+🎓 3rd Year CSE Undergrad | SIT Bhubaneswar  
+💻 Full Stack Developer | DSA Enthusiast  
+🌐 Passionate about building scalable, responsive web apps  
+⚙️ Exploring Backend Systems, DevOps & a bit of ML  
+🚀 Always curious, always building, always leveling up
 
 ---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiteshbhakat/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_jitesh.25.16_)
+
+---
+
+## 📘 DSA Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/JiteshBhakat/)  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/jiteshbh0v71/)  [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/jiteshbhakat16)
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### 🔧 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Jitesh8260&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jitesh8260&layout=compact&theme=radical&hide_border=false)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=Jitesh8260&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> “Code. Debug. Repeat. Deploy. 🚀”  
+<!-- Crafted with ❤️ by Jitesh Bhakat -->
