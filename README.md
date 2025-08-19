@@ -7,7 +7,7 @@
 ---
 
 ## 👋 About Me 
->  I'm a 3rd-year Computer Science Engineering undergraduate at SIT Bhubaneswar with a strong passion for building robust and scalable web applications. As a Full Stack Developer, I specialize in crafting responsive frontend interfaces using React and Tailwind CSS, while also building powerful backend systems with Node.js, Express, and MongoDB. My journey into tech is driven by curiosity and a constant desire to learn — whether it's diving deep into Data Structures & Algorithms, experimenting with DevOps tools, or exploring the basics of Machine Learning. I believe in writing clean, maintainable code and developing solutions that make a real-world impact. Currently, I'm building projects that enhance my understanding of real-life system architecture and contribute to my goal of becoming a well-rounded software engineer.</p>
+>  I'm a Final year Computer Science Engineering undergraduate at SIT Bhubaneswar with a strong passion for building robust and scalable web applications. As a Full Stack Developer, I specialize in crafting responsive frontend interfaces using React and Tailwind CSS, while also building powerful backend systems with Node.js, Express, and MongoDB. My journey into tech is driven by curiosity and a constant desire to learn — whether it's diving deep into Data Structures & Algorithms, experimenting with DevOps tools, or exploring the basics of Machine Learning. I believe in writing clean, maintainable code and developing solutions that make a real-world impact. Currently, I'm building projects that enhance my understanding of real-life system architecture and contribute to my goal of becoming a well-rounded software engineer.</p>
 
 
 ---
